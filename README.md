@@ -2,9 +2,13 @@
 小小输入法自制词库
 ## 词库说明
  med.txt=西医词库
+ 
  tcm.txt=中医词库
+ 
  net.txt=qq输入法词库_网络流行用语（见http://dict.qq.pinyin.cn/dict_detail?dict_id=39）
+ 
  simp.txt=Rime【袖珍簡化字拼音】輸入方案(见https://github.com/rime/rime-pinyin-simp)
+ 
 ## 词库转化
 ### 准备工具
 * 深蓝词库转换工具：https://github.com/studyzy/imewlconverter/releases
